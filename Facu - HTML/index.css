@@ -1,0 +1,69 @@
+*{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+   
+}
+
+
+
+#ultimo{
+    font-style: italic;
+    border-color: aquamarine;
+    border: 5cm;
+    border: solid aquamarine ;
+    background-color: aquamarine;
+    padding-left: 0cm;
+    width:fit-content ;
+    text-shadow: 0 0 30px firebrick;
+}
+
+
+header{
+    background-image: url(https://th.bing.com/th/id/OIP.wZLiIuJ-dx2FmwfHAOtFbAHaEK?pid=ImgDet&rs=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5cm;
+    border:solid black;
+    box-shadow: 20px;
+   
+
+}
+
+body{
+    background-color: gray;
+
+
+}
+
+footer{
+    background-color: darkgreen;
+    padding-left: 0cm;
+    width:fit-content ;
+}
+
+h1{
+    color: red;
+    align-items: center ;
+    text-shadow: 0 0 20px black;
+    
+    
+    
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-color: brown;
+}
+
+img{
+    border: 3cm;
+    border: solid black;
+    box-shadow:0 0 20px white;
+     
+}
+
+p{
+    text-shadow:0 0 30px blue;
+    box-shadow:0 0 20px violet;
+}
